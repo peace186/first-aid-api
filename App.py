@@ -34,6 +34,16 @@ def get_guides():
             "steps": "1. Call for emergency help and get an AED if available.\n2. Place hands in the center of the chest and push hard and fast (100-120 beats/min).\n3. Allow the chest to recoil completely between compressions.",
             "version": 1
         }
+        ,
+        {
+            "id": 4,
+            "category_id": 4,
+            "title": "snake Bite",
+            "symptoms": "fang marks, severe pain, swelling, redness, numbness, or dizziness.",
+            "steps": "1. keep the victim calm and still to slow the spread of venom.\n2. position the affected area below heart level.\n3. wash the bite gently with soap and water.\n4. Apply a clean, dry bandage over the site.\n5. DO NOT cut the wound, attempt to suck out the venom, or apply a tournniquet.\n6. Seek emergency medical help immediately.",
+            "version": 1
+            
+        }
     ]
     return jsonify(guides)
 
