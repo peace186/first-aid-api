@@ -36,8 +36,8 @@ def get_guides():
         }
         ,
         {
-            "id": 4,
-            "category_id": 4,
+            "id": 3,
+            "category_id": 3,
             "title": "snake Bite",
             "symptoms": "fang marks, severe pain, swelling, redness, numbness, or dizziness.",
             "steps": "1. keep the victim calm and still to slow the spread of venom.\n2. position the affected area below heart level.\n3. wash the bite gently with soap and water.\n4. Apply a clean, dry bandage over the site.\n5. DO NOT cut the wound, attempt to suck out the venom, or apply a tournniquet.\n6. Seek emergency medical help immediately.",
