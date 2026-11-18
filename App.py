@@ -36,7 +36,7 @@ def get_guides():
         },
         {
             "id": 4,
-            "category_id": 4,
+            "category_id": 3,
             "title": "snake Bite",
             "symptoms": "fang marks, severe pain, swelling, redness, numbness, or dizziness.",
             "steps": "1. keep the victim calm and still to slow the spread of venom.\n2. position the affected area below heart level.\n3. wash the bite gently with soap and water.\n4. Apply a clean, dry bandage over the site.\n5. DO NOT cut the wound, attempt to suck out the venom, or apply a tournniquet.\n6. Seek emergency medical help immediately.",
@@ -45,7 +45,7 @@ def get_guides():
         },
         {
             "id": 5,
-            "category_id": 5,
+            "category_id": 2,
             "title": "Fractures and sprains",
             "symptoms": "Intense pain, swelling, bruising, deformity, or inability to move the limb.",
             "steps": "1. Do not try to straighten or realign a broken bone.\n2. Immobilize the injured area using a splint or  sling in position you found  it.\n3. Apply an ice pack wrapped in cloth to reduce swelling and pain.\n4. Treat for shock by keeping the victim confortable and calm.\n5. Seek professional medical help immediately.",
