@@ -49,7 +49,7 @@ def get_guides():
             "title": "Fractures and sprains",
             "symptoms": "Intense pain, swelling, bruising, deformity, or inability to move the limb.",
             "steps": "1. Do not try to straighten or realign a broken bone.\n2. Immobilize the injured area using a splint or  sling in position you found  it.\n3. Apply an ice pack wrapped in cloth to reduce swelling and pain.\n4. Treat for shock by keeping the victim confortable and calm.\n5. Seek professional medical help immediately.",
-            "version": 2
+            "version": 1
 
         }
     ]
